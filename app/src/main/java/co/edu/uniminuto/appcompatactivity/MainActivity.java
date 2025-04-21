@@ -44,6 +44,8 @@ public class MainActivity extends AppCompatActivity {
 
     private User selectedUser;
 
+    //Actividad 4, elaborada por Jaime Bolivar Castañeda y Andres Alexander Rativa Pineda
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
