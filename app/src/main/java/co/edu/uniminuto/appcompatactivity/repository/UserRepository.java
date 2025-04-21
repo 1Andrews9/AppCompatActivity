@@ -62,7 +62,7 @@ public class UserRepository {
         if (cursor.moveToFirst()) {
             do {
                 User user = new User();
-                user.setDocument(cursor.getInt(0));  // Asegúrate de que el índice es correcto
+                user.setDocument(cursor.getInt(0));
                 user.setName(cursor.getString(1));
                 user.setLastName(cursor.getString(2));
                 user.setUser(cursor.getString(3));
