@@ -7,8 +7,6 @@
     <string name="etNombres">Ingrese los Nombres</string>
     <string name="etApellidos">Ingrese el Apellidos</string>
     <string name="etContraseña">Ingrese la Contraseña</string>
-
-    <!-- Botones -->
     <string name="btnRegistrar">Guardar</string>
     <string name="btnBuscar">Buscar</string>
     <string name="btnListar">Listar</string>
